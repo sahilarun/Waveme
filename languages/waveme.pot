@@ -1,0 +1,249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Waveme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-02 05:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.6"
+
+#: functions.php:37
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:39
+msgid "User Menu"
+msgstr ""
+
+#: functions.php:40
+msgid "Before Login Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "After Login Menu"
+msgstr ""
+
+#: 404.php:13
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19 templates/content/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: 404.php:23 templates/content/content-none.php:38
+msgid "Back to homepage"
+msgstr ""
+
+#: comments.php:22 comments.php:36 comments.php:43
+#: includes/template-tags.php:87
+msgid "Comment"
+msgstr ""
+
+#: comments.php:22 includes/template-tags.php:87
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:22 includes/template-tags.php:87
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: includes/template-customize.php:155
+msgid "Hide Sidenav"
+msgstr ""
+
+#: includes/template-customize.php:157
+msgid "Hide Page Navigation"
+msgstr ""
+
+#: includes/template-customize.php:158
+msgid "Hide Page Title"
+msgstr ""
+
+#: includes/template-customize.php:159
+msgid "Disable AJAX"
+msgstr ""
+
+#: includes/template-customize.php:161
+msgid "Sidebar"
+msgstr ""
+
+#: includes/template-customize.php:162
+msgid "Footer"
+msgstr ""
+
+#: includes/template-customize.php:163
+msgid "Additional CSS class(es)"
+msgstr ""
+
+#: includes/template-customize.php:171
+msgid "Advanced"
+msgstr ""
+
+#: includes/template-customize.php:233
+msgid "Hide Site Title"
+msgstr ""
+
+#: includes/template-customize.php:239
+msgid "Color"
+msgstr ""
+
+#: includes/template-customize.php:252
+msgid "Theme"
+msgstr ""
+
+#: includes/template-customize.php:266
+msgid "Primary color"
+msgstr ""
+
+#: includes/template-customize.php:268
+msgid "Apply a custom color for icons, buttons and various other elements."
+msgstr ""
+
+#: includes/template-customize.php:276
+msgid "Additional JS"
+msgstr ""
+
+#: includes/template-customize.php:295
+msgid "Pages"
+msgstr ""
+
+#: includes/template-customize.php:307
+msgid "Page animate"
+msgstr ""
+
+#: includes/template-customize.php:309
+msgid "Check this to enable a smooth transitional animation on page reloads."
+msgstr ""
+
+#: includes/template-customize.php:322
+msgid "Footer page"
+msgstr ""
+
+#: includes/template-customize.php:325
+msgid ""
+"This is the page content that displays on the site footer section. Can be "
+"overridden on a per-page basis."
+msgstr ""
+
+#: includes/template-customize.php:338
+msgid "Sidebar Page"
+msgstr ""
+
+#: includes/template-customize.php:341
+msgid ""
+"This is the page content that displays on the station and product page "
+"sidebar. Can be overridden on a per-page basis."
+msgstr ""
+
+#: includes/template-customize.php:353
+msgid "Site Sidebar Header Page"
+msgstr ""
+
+#: includes/template-customize.php:356
+msgid ""
+"This is the page content that displays on the top of the site sidebar "
+"primary navigation."
+msgstr ""
+
+#: includes/template-customize.php:368
+msgid "Site Sidebar Footer Page"
+msgstr ""
+
+#: includes/template-customize.php:371
+msgid ""
+"This is the page content that displays below the site sidebar primary "
+"navigation."
+msgstr ""
+
+#: includes/template-tags.php:96
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/template-tags.php:144
+msgid "Edit"
+msgstr ""
+
+#: includes/template-tags.php:254
+msgid "Featured"
+msgstr ""
+
+#: includes/template-functions.php:115
+msgid "Related Posts"
+msgstr ""
+
+#: templates/footer/site-footer-default.php:25
+msgid "&copy; Copyright"
+msgstr ""
+
+#: templates/post/author-bio.php:19
+msgid "Published by"
+msgstr ""
+
+#: templates/content/content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/content/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/header/site-navbar.php:14
+msgid "Search..."
+msgstr ""
+
+#. Name of the theme
+msgid "Waveme"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive music WordPress theme, Manage audio, album, genres, artist and "
+"sell the audio files to customer."
+msgstr ""
+
+#. URI of the theme
+msgid "http://music.flatfull.com/waveme/"
+msgstr ""
+
+#. Author of the theme
+msgid "Flatfull.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://flatfull.com/"
+msgstr ""
