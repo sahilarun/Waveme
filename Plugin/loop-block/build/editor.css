@@ -1,0 +1,81 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Editor CSS
+ * ----------------------------------------------------------------------------
+ */
+.editor-styles-wrapper{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif !important;
+}
+.editor-styles-wrapper a{
+    text-decoration: none;
+    color: inherit;
+}
+.editor-styles-wrapper .entry-action{
+    display: none;
+}
+.editor-styles-wrapper .wp-block-button__link{
+    font-size: 0.875rem;
+    padding: 0.8125rem 1.5rem;
+    line-height: 1;
+}
+
+.editor-styles-wrapper .slick-alignfull img{
+    display: none;
+}
+.components-form-token-filter .components-form-token-field__token{
+    cursor: move;
+}
+
+.components-select-loop-type{
+ 	width: 100%;
+}
+
+.components-panel .components-autocomplete{
+	font-size: 13px;
+    padding: 2px 8px;
+    margin: 4px 0 4px 0;
+    box-shadow: 0 0 0 transparent;
+    border-radius: 4px;
+    border: 1px solid #8d96a0;
+}
+
+.components-panel .components-form-token-field__help,
+.components-panel .components-base-control__help{
+    font-size: 11px;
+}
+
+.components-loop-date{
+	margin-top: -16px;
+	margin-bottom: 16px;
+}
+
+.components-loop-date-popup .components-popover__content{
+    min-width: 180px !important;
+}
+
+.components-loop-date-dialog{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	padding: 10px;
+}
+
+.components-loop-date-dialog .components-base-control__field{
+    margin-bottom: 0;
+}
+.components-loop-date-dialog input{
+    width: 50px;
+}
+.components-range-control .components-range-control__slider{
+    min-width: 3rem;
+}
+.grid-4-col{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 8px;
+}
+.block-permission__help{
+    font-size: 12px;
+    color: #888;
+    user-select: none;
+}
