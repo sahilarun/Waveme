@@ -1,0 +1,1392 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Play Block\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-29 15:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.6"
+
+#: inc/play-texts.php:200
+#, php-format
+msgid "%1$s added %2$s to %3$s"
+msgstr ""
+
+#: inc/play-texts.php:190
+#, php-format
+msgid "%1$s ago"
+msgstr ""
+
+#: inc/play-texts.php:197
+#, php-format
+msgid "%1$s commented on %2$s"
+msgstr ""
+
+#: inc/play-texts.php:199
+#, php-format
+msgid "%1$s downloaded %2$s"
+msgstr ""
+
+#: inc/play-texts.php:196
+#, php-format
+msgid "%1$s followed you"
+msgstr ""
+
+#: inc/play-texts.php:195
+#, php-format
+msgid "%1$s liked %2$s"
+msgstr ""
+
+#: inc/play-texts.php:201
+#, php-format
+msgid "%1$s posted %2$s"
+msgstr ""
+
+#: inc/play-texts.php:198
+#, php-format
+msgid "%1$s uploaded %2$s"
+msgstr ""
+
+#: inc/play-texts.php:126 inc/play-texts.php:128
+msgid "(Separate with commas)"
+msgstr ""
+
+#: inc/class-play-block.php:972
+msgid "[{site.name}] Password Reset"
+msgstr ""
+
+#: inc/play-texts.php:183
+msgid "A playlist will be made when multiple files are selected"
+msgstr ""
+
+#: inc/play-texts.php:112
+msgid "Activate"
+msgstr ""
+
+#: inc/class-play-block.php:1022
+msgid "Activity base"
+msgstr ""
+
+#: inc/play-texts.php:68
+msgid "Ad"
+msgstr ""
+
+#: inc/class-play-block.php:863
+msgid "Ad Interval"
+msgstr ""
+
+#: inc/class-play-block.php:869
+msgid "Ad-Free Roles"
+msgstr ""
+
+#: inc/play-texts.php:38
+msgid "Add"
+msgstr ""
+
+#: inc/play-texts.php:24
+msgid "Add to playlist"
+msgstr ""
+
+#: inc/play-texts.php:52
+msgid "Add to queue"
+msgstr ""
+
+#: inc/play-texts.php:25
+msgid "Added to playlist"
+msgstr ""
+
+#: inc/class-play-block.php:1160
+msgid "Admin dashboard"
+msgstr ""
+
+#: inc/class-play-block.php:1108
+msgid "Advanced"
+msgstr ""
+
+#: inc/play-texts.php:18
+msgid "Album"
+msgstr ""
+
+#: inc/play-texts.php:19 inc/class-play-block.php:1053
+msgid "Albums"
+msgstr ""
+
+#: inc/play-texts.php:56
+msgid "All time"
+msgstr ""
+
+#: inc/class-play-block.php:772
+msgid "Allow File Uploads"
+msgstr ""
+
+#: inc/class-play-block.php:779
+msgid "Allow Online Stream URLs"
+msgstr ""
+
+#: inc/class-play-block.php:786
+msgid "Allow Purchase URLs"
+msgstr ""
+
+#: inc/play-texts.php:143
+msgid "Already have an account?"
+msgstr ""
+
+#: inc/play-texts.php:179
+msgid "Anyone will be able to listen."
+msgstr ""
+
+#: inc/play-texts.php:178
+msgid "Are you sure you want to delete? This action cannot be undone."
+msgstr ""
+
+#: inc/class-play-block.php:1010
+msgid "Artist base"
+msgstr ""
+
+#: inc/play-texts.php:127
+msgid "Artists"
+msgstr ""
+
+#: inc/class-play-block.php:758
+msgid "Auto Approve Playlists"
+msgstr ""
+
+#: inc/class-play-block.php:751
+msgid "Auto Approve Posts"
+msgstr ""
+
+#: inc/class-play-block.php:765
+msgid "Auto Approve Verified Users"
+msgstr ""
+
+#: inc/play-texts.php:109 inc/class-play-upload.php:75
+msgid "BPM"
+msgstr ""
+
+#: inc/play-texts.php:184
+msgid ""
+"By uploading, you confirm that your sounds comply with our Terms of Use and "
+"you don't infringe anyone else's rights."
+msgstr ""
+
+#: inc/play-texts.php:177
+msgid "Cancel"
+msgstr ""
+
+#: inc/play-texts.php:64
+msgid "Captions"
+msgstr ""
+
+#: inc/play-texts.php:40
+msgid "Changes saved"
+msgstr ""
+
+#: inc/class-play-block.php:916
+msgid "Check this option to allow only registered users to download files."
+msgstr ""
+
+#: inc/class-play-block.php:780
+msgid ""
+"Check this option to allow users to enter online stream URLs on frontend "
+"submissions."
+msgstr ""
+
+#: inc/class-play-block.php:787
+msgid ""
+"Check this option to allow users to enter purchase link URLs on frontend "
+"submissions."
+msgstr ""
+
+#: inc/class-play-block.php:759
+msgid ""
+"Check this option to allow users to publish frontend submitted playlists "
+"without approval."
+msgstr ""
+
+#: inc/class-play-block.php:752
+msgid ""
+"Check this option to allow users to publish frontend submitted posts without "
+"approval."
+msgstr ""
+
+#: inc/class-play-block.php:773
+msgid ""
+"Check this option to allow users to upload files on frontend submissions."
+msgstr ""
+
+#: inc/class-play-block.php:766
+msgid ""
+"Check this option to allow verified users to publish posts and playlist "
+"without approval."
+msgstr ""
+
+#: inc/class-play-block.php:941
+msgid "Check this option to customize new user email."
+msgstr ""
+
+#: inc/class-play-block.php:964
+msgid "Check this option to customize retrieve password email."
+msgstr ""
+
+#: inc/class-play-block.php:1168
+msgid ""
+"Check this option to disable <code>wp-admin</code> dashboard acccess for all "
+"users excluding site administrators."
+msgstr ""
+
+#: inc/class-play-block.php:807
+msgid "Check this option to disable login modal popup."
+msgstr ""
+
+#: inc/class-play-block.php:879
+msgid "Check this option to disable unregistered user to play station."
+msgstr ""
+
+#: inc/class-play-block.php:1174
+msgid "Check this option to display the admin top bar for site administrators."
+msgstr ""
+
+#: inc/class-play-block.php:885
+msgid "Check this option to enable player history."
+msgstr ""
+
+#: inc/class-play-block.php:1156
+msgid "Check this option to notify followers when post something."
+msgstr ""
+
+#: inc/class-play-block.php:1120
+msgid "Check this option to notify followers when upload something."
+msgstr ""
+
+#: inc/class-play-block.php:1138
+msgid "Check this option to notify user when get followed."
+msgstr ""
+
+#: inc/class-play-block.php:1132
+msgid "Check this option to notify user when post added to playlist."
+msgstr ""
+
+#: inc/class-play-block.php:1150
+msgid "Check this option to notify user when post get commented"
+msgstr ""
+
+#: inc/class-play-block.php:1144
+msgid "Check this option to notify user when post get liked."
+msgstr ""
+
+#: inc/class-play-block.php:1126
+msgid "Check this option to notify user when upload get downloaded."
+msgstr ""
+
+#: inc/class-play-block.php:935
+msgid ""
+"Check this option to require email activation for new user registrations.<br>"
+" Put the <code>{activation.url}</code> in new user email content, Make sure "
+"the wp_mail function works"
+msgstr ""
+
+#: inc/class-play-block.php:891
+msgid ""
+"Check this option to use PHP to stream locally hosted media files. This "
+"helps mask the location of your media files."
+msgstr ""
+
+#: inc/class-play-import.php:86
+msgid "Choose a file"
+msgstr ""
+
+#: inc/play-texts.php:44
+msgid "Clear"
+msgstr ""
+
+#: inc/class-play-import.php:42
+msgid "Column mapping"
+msgstr ""
+
+#: inc/play-texts.php:115
+msgid "Comfirm new password"
+msgstr ""
+
+#: inc/class-play-block.php:1148
+msgid "Comment"
+msgstr ""
+
+#: inc/play-texts.php:121
+msgid "Complete"
+msgstr ""
+
+#: inc/play-texts.php:118
+msgid "Content"
+msgstr ""
+
+#: inc/class-play-import.php:217
+msgid "Continue"
+msgstr ""
+
+#: inc/play-texts.php:185
+msgid "Copy and paste online stream url here"
+msgstr ""
+
+#: inc/play-texts.php:188
+msgid "Copyright"
+msgstr ""
+
+#: inc/play-texts.php:142
+msgid "Create account"
+msgstr ""
+
+#: inc/play-texts.php:141
+msgid "Create an account"
+msgstr ""
+
+#: inc/play-texts.php:113
+msgid "Current password"
+msgstr ""
+
+#: inc/class-play-block.php:939
+msgid "Customize New User Email"
+msgstr ""
+
+#: inc/class-play-block.php:962
+msgid "Customize Retrieve Password Email"
+msgstr ""
+
+#: inc/class-play-block.php:845
+msgid "Default Play ID"
+msgstr ""
+
+#: inc/play-texts.php:103
+msgid "Delete account"
+msgstr ""
+
+#: inc/play-texts.php:104
+msgid "Delete my account"
+msgstr ""
+
+#: inc/play-texts.php:92
+msgid "Description"
+msgstr ""
+
+#: inc/class-play-block.php:1166
+msgid "Disable Dashboard Access"
+msgstr ""
+
+#: inc/class-play-block.php:806
+msgid "Disable login modal"
+msgstr ""
+
+#: inc/play-texts.php:65
+msgid "Disabled"
+msgstr ""
+
+#: inc/class-play-block.php:1172
+msgid "Display Admin Bar"
+msgstr ""
+
+#: inc/play-texts.php:89
+msgid "Display Name"
+msgstr ""
+
+#: inc/play-texts.php:144
+msgid "Do not have an account?"
+msgstr ""
+
+#: inc/play-texts.php:31 inc/class-play-block.php:1124
+msgid "Download"
+msgstr ""
+
+#: inc/class-play-block.php:819
+msgid "Download Page"
+msgstr ""
+
+#: inc/class-play-block.php:920
+msgid "Download Roles"
+msgstr ""
+
+#: inc/play-texts.php:129
+msgid "Downloadable"
+msgstr ""
+
+#: inc/play-texts.php:32 inc/class-play-block.php:910
+#: inc/class-play-block.php:1083
+msgid "Downloads"
+msgstr ""
+
+#: inc/play-texts.php:181
+msgid "Drag and drop your tracks &amp; albums here"
+msgstr ""
+
+#: inc/play-texts.php:122
+msgid "Duration"
+msgstr ""
+
+#: inc/play-texts.php:42
+msgid "Edit"
+msgstr ""
+
+#: inc/play-texts.php:175
+msgid "Editor's Notes"
+msgstr ""
+
+#: inc/play-texts.php:90
+msgid "Email"
+msgstr ""
+
+#: inc/play-texts.php:146
+msgid "Email Address"
+msgstr ""
+
+#: inc/class-play-block.php:929
+msgid "Emails"
+msgstr ""
+
+#: inc/play-texts.php:189
+msgid "Embed"
+msgstr ""
+
+#: inc/play-texts.php:66
+msgid "Enabled"
+msgstr ""
+
+#: inc/class-play-block.php:986
+msgid "Endpoints"
+msgstr ""
+
+#: inc/class-play-block.php:1035
+msgid ""
+"Endpoints are appended to user page URLs to handle specific actions. They "
+"should be unique. <br>NOTE: Go to \"Appearance > Menus\" to change the user "
+"URLS after you change those endpoints."
+msgstr ""
+
+#: inc/class-play-block.php:859
+msgid ""
+"Enter a VAST compatible ad tag URL here. Test <a href=\"https://developers."
+"google.com/interactive-media-ads/docs/sdks/html5/client-side/tags\" "
+"target=\"_blank\">Google Sample Tags</a>"
+msgstr ""
+
+#: inc/play-texts.php:94
+msgid "Facebook"
+msgstr ""
+
+#: inc/play-texts.php:187
+msgid "Featured on"
+msgstr ""
+
+#: inc/play-texts.php:107
+msgid "Files uploaded."
+msgstr ""
+
+#: inc/play-texts.php:87
+msgid "First Name"
+msgstr ""
+
+#. Author of the plugin
+msgid "Flatfull"
+msgstr ""
+
+#: inc/play-texts.php:8 inc/class-play-block.php:1136
+msgid "Follow"
+msgstr ""
+
+#: inc/play-texts.php:9
+msgid "Follower"
+msgstr ""
+
+#: inc/play-texts.php:10 inc/class-play-block.php:1071
+msgid "Followers"
+msgstr ""
+
+#: inc/play-texts.php:7 inc/class-play-block.php:1077
+msgid "Following"
+msgstr ""
+
+#: inc/class-play-block.php:725
+msgid "General"
+msgstr ""
+
+#: inc/play-texts.php:165
+msgid "Generate password"
+msgstr ""
+
+#: inc/play-texts.php:124
+msgid "Genre"
+msgstr ""
+
+#: inc/class-play-block.php:1004
+msgid "Genre base"
+msgstr ""
+
+#: inc/play-texts.php:152
+msgid "Get new password"
+msgstr ""
+
+#: inc/play-texts.php:168
+msgid ""
+"Hint: The password should be at least twelve characters long. To make it "
+"stronger, use upper and lower case letters, numbers, and symbols like ! \" ? "
+"$ % ^ & )."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://flatfull.com/"
+msgstr ""
+
+#: inc/class-play-import.php:31 inc/class-play-import.php:47
+msgid "Import"
+msgstr ""
+
+#: inc/class-play-import.php:38
+msgid "Import posts from a file"
+msgstr ""
+
+#: inc/class-play-import.php:93
+msgid "Import to post type"
+msgstr ""
+
+#: inc/class-play-import.php:48
+msgid "Importing"
+msgstr ""
+
+#: inc/play-texts.php:98
+msgid "Instagram"
+msgstr ""
+
+#: inc/play-texts.php:160
+msgid "Invalid username or password."
+msgstr ""
+
+#: inc/class-play-block.php:979
+msgid ""
+"It looks like you need to reset your password on the site. If this is "
+"correct, simply click the link below. If you were not the one responsible "
+"for this request, ignore this email and nothing will happen.<br>"
+"{resetpassword.url}"
+msgstr ""
+
+#: inc/play-texts.php:88
+msgid "Last Name"
+msgstr ""
+
+#: inc/play-texts.php:11 inc/class-play-block.php:1142
+msgid "Like"
+msgstr ""
+
+#: inc/play-texts.php:12 inc/class-play-block.php:1065
+msgid "Likes"
+msgstr ""
+
+#: inc/play-texts.php:67
+msgid "Live"
+msgstr ""
+
+#: inc/play-texts.php:33
+msgid "Log out"
+msgstr ""
+
+#: inc/play-texts.php:161
+msgid "Logged in, Redirecting."
+msgstr ""
+
+#: inc/class-play-block.php:826
+msgid "Login Page"
+msgstr ""
+
+#: inc/class-play-block.php:877
+msgid "Login To Play"
+msgstr ""
+
+#: inc/play-texts.php:150
+msgid "Lost password"
+msgstr ""
+
+#: inc/play-texts.php:149
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/class-play-import.php:120
+msgid "Map data from"
+msgstr ""
+
+#: inc/class-play-import.php:43
+msgid "Map fields"
+msgstr ""
+
+#: inc/class-play-import.php:89
+msgid "Maximum size: "
+msgstr ""
+
+#: inc/class-play-upload.php:419
+#, php-format
+msgid "Maximum upload file size: %s."
+msgstr ""
+
+#: inc/play-texts.php:172
+msgid "Medium"
+msgstr ""
+
+#: inc/play-texts.php:174
+msgid "Mismatch"
+msgstr ""
+
+#: inc/class-play-block.php:1016
+msgid "Mood base"
+msgstr ""
+
+#: inc/play-texts.php:34
+msgid "More from"
+msgstr ""
+
+#: inc/play-texts.php:45
+msgid "New"
+msgstr ""
+
+#: inc/play-texts.php:114 inc/play-texts.php:164
+msgid "New password"
+msgstr ""
+
+#: inc/class-play-block.php:954
+msgid "New User Email Content"
+msgstr ""
+
+#: inc/class-play-block.php:947
+msgid "New User Email Subject"
+msgstr ""
+
+#: inc/play-texts.php:51
+msgid "Next to play"
+msgstr ""
+
+#: inc/play-texts.php:59
+msgid "Next up"
+msgstr ""
+
+#: inc/play-texts.php:111
+msgid "No"
+msgstr ""
+
+#: inc/play-texts.php:62
+msgid "Normal"
+msgstr ""
+
+#: inc/play-texts.php:192 inc/class-play-block.php:1101
+#: inc/class-play-block.php:1112
+msgid "Notifications"
+msgstr ""
+
+#: inc/class-play-block.php:897
+msgid ""
+"Only play x number of seconds for users.<br> <em>Stream Media Files must be "
+"checked</em>."
+msgstr ""
+
+#: inc/play-texts.php:180
+msgid "Only you will be able to listen."
+msgstr ""
+
+#: inc/play-texts.php:182
+msgid "or choose files to upload"
+msgstr ""
+
+#: inc/class-play-block.php:802
+msgid "Pages"
+msgstr ""
+
+#: inc/play-texts.php:147
+msgid "Password"
+msgstr ""
+
+#: inc/play-texts.php:135
+msgid "Password change"
+msgstr ""
+
+#: inc/play-texts.php:162
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: inc/play-texts.php:169
+msgid "Password strength unknown"
+msgstr ""
+
+#: inc/play-texts.php:50
+msgid "Play"
+msgstr ""
+
+#: inc/class-play-block.php:865
+msgid "Play advertisment after every x number of streams."
+msgstr ""
+
+#. Name of the plugin
+msgid "Play Block"
+msgstr ""
+
+#: inc/class-play-count.php:520
+#, php-format
+msgid ""
+"Play Block needs to perform an upgrade. Click <a href=\"%s\">here</a> to "
+"start."
+msgstr ""
+
+#: inc/class-play-block.php:991
+msgid ""
+"Play Block offers you the ability to create a custom URL structure for your "
+"permalinks and archives. Custom URL structures can improve the aesthetics, "
+"usability, and forward-compatibility of your links."
+msgstr ""
+
+#. Description of the plugin
+msgid "Play the post"
+msgstr ""
+
+#: inc/class-play-block.php:841
+msgid "Player"
+msgstr ""
+
+#: inc/class-play-block.php:883
+msgid "Player History"
+msgstr ""
+
+#: inc/play-texts.php:20 inc/class-play-block.php:1130
+msgid "Playlist"
+msgstr ""
+
+#: inc/class-play-block.php:744
+msgid "Playlist Post Type"
+msgstr ""
+
+#: inc/play-texts.php:23
+msgid "Playlist title"
+msgstr ""
+
+#: inc/play-texts.php:21
+msgid "Playlist type"
+msgstr ""
+
+#: inc/play-texts.php:22 inc/class-play-block.php:1059
+msgid "Playlists"
+msgstr ""
+
+#: inc/play-texts.php:154
+msgid "Please check your email to activate your account."
+msgstr ""
+
+#: inc/play-texts.php:46
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: inc/play-texts.php:151
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: inc/play-texts.php:191
+msgid "Popular"
+msgstr ""
+
+#: inc/class-play-block.php:1154
+msgid "Post"
+msgstr ""
+
+#: inc/class-play-block.php:729
+msgid "Post Types"
+msgstr ""
+
+#: inc/play-texts.php:116
+msgid "Poster"
+msgstr ""
+
+#: inc/play-texts.php:85
+msgid "Poster is required."
+msgstr ""
+
+#: inc/class-play-block.php:895
+msgid "Preview Length (Seconds)"
+msgstr ""
+
+#: inc/class-play-block.php:901
+msgid "Preview-Free Roles"
+msgstr ""
+
+#: inc/play-texts.php:134
+msgid "Private"
+msgstr ""
+
+#: inc/play-texts.php:28 inc/class-play-block.php:1089
+msgid "Profile"
+msgstr ""
+
+#: inc/play-texts.php:133
+msgid "Public"
+msgstr ""
+
+#: inc/play-texts.php:130
+msgid "Purchase title"
+msgstr ""
+
+#: inc/play-texts.php:131
+msgid "Purchase url"
+msgstr ""
+
+#: inc/play-texts.php:63
+msgid "Quality"
+msgstr ""
+
+#: inc/play-texts.php:58
+msgid "Queue"
+msgstr ""
+
+#: inc/class-play-block.php:833
+msgid "Rank Page"
+msgstr ""
+
+#: inc/play-texts.php:37
+msgid "Recently played"
+msgstr ""
+
+#: inc/play-texts.php:159
+msgid "Registration complete. "
+msgstr ""
+
+#: inc/play-texts.php:119
+msgid "Regular price"
+msgstr ""
+
+#: inc/play-texts.php:123
+msgid "Release Date"
+msgstr ""
+
+#: inc/play-texts.php:140
+msgid "Remember Me"
+msgstr ""
+
+#: inc/play-texts.php:43
+msgid "Remove"
+msgstr ""
+
+#: inc/class-play-block.php:933
+msgid "Require Email Activation"
+msgstr ""
+
+#: inc/class-play-block.php:914
+msgid "Require Registration"
+msgstr ""
+
+#: inc/play-texts.php:163
+msgid "Reset password"
+msgstr ""
+
+#: inc/class-play-block.php:977
+msgid "Retrieve Password Email Content"
+msgstr ""
+
+#: inc/class-play-block.php:970
+msgid "Retrieve Password Email Subject"
+msgstr ""
+
+#: inc/play-texts.php:153
+msgid "Return to"
+msgstr ""
+
+#: inc/play-texts.php:120
+msgid "Sale price"
+msgstr ""
+
+#: inc/play-texts.php:39
+msgid "Save"
+msgstr ""
+
+#: inc/play-texts.php:166
+msgid "Save password"
+msgstr ""
+
+#: inc/class-play-import.php:44
+msgid ""
+"Select fields from your file to map against posts fields, or to ignore "
+"during import."
+msgstr ""
+
+#: inc/class-play-block.php:745
+msgid "Select the playlist post type for frontend submissions."
+msgstr ""
+
+#: inc/class-play-block.php:730
+msgid "Select the post types that will have Play Block functionality."
+msgstr ""
+
+#: inc/class-play-block.php:738
+msgid "Select the upload post type for frontend submissions."
+msgstr ""
+
+#: inc/class-play-block.php:873
+msgid "Select the user roles exempt from advertisments."
+msgstr ""
+
+#: inc/class-play-block.php:905
+msgid "Select the user roles exempt from the preview limit."
+msgstr ""
+
+#: inc/class-play-block.php:924
+msgid "Select the user roles that can download files."
+msgstr ""
+
+#: inc/class-play-block.php:797
+msgid "Select the user roles who can submit frontend submissions."
+msgstr ""
+
+#: inc/class-play-block.php:91 inc/class-play-block.php:95
+msgid "Settings"
+msgstr ""
+
+#: inc/class-play-block.php:680
+msgid "Settings updated"
+msgstr ""
+
+#: inc/play-texts.php:13
+msgid "Share"
+msgstr ""
+
+#: inc/play-texts.php:176
+msgid "Show more"
+msgstr ""
+
+#: inc/play-texts.php:136 inc/play-texts.php:137 inc/play-texts.php:138
+msgid "Sign in"
+msgstr ""
+
+#: inc/play-texts.php:139
+msgid "Sign up"
+msgstr ""
+
+#: inc/play-texts.php:35
+msgid "Similar"
+msgstr ""
+
+#: inc/play-texts.php:14
+msgid "Single"
+msgstr ""
+
+#: inc/play-texts.php:15
+msgid "Singles"
+msgstr ""
+
+#: inc/play-texts.php:97
+msgid "SnapChat"
+msgstr ""
+
+#: inc/play-texts.php:93
+msgid "Social networks"
+msgstr ""
+
+#: inc/play-texts.php:47
+msgid "Sorry, that email address is already used!"
+msgstr ""
+
+#: inc/play-texts.php:101
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/play-texts.php:61
+msgid "Speed"
+msgstr ""
+
+#: inc/play-texts.php:26
+msgid "Station"
+msgstr ""
+
+#: inc/class-play-block.php:997
+msgid "Station base"
+msgstr ""
+
+#: inc/class-play-block.php:990
+msgid "Station endpoints"
+msgstr ""
+
+#: inc/play-texts.php:27 inc/class-play-block.php:1047
+msgid "Stations"
+msgstr ""
+
+#: inc/play-texts.php:36
+msgid "Stream"
+msgstr ""
+
+#: inc/play-texts.php:86
+msgid "Stream is a required field."
+msgstr ""
+
+#: inc/class-play-block.php:889
+msgid "Stream Media Files"
+msgstr ""
+
+#: inc/play-texts.php:173
+msgid "Strong"
+msgstr ""
+
+#: inc/play-texts.php:186
+msgid ""
+"Support audio, video, Youtube, Youtube Music, Shoutcast, Icecast and any "
+"other online stream URL."
+msgstr ""
+
+#: inc/class-play-block.php:957
+msgid ""
+"Supported tokens: <code>{site.name}</code> <code>{site.url}</code> <code>"
+"{user.name}</code> <code>{user.email}</code> <code>{login.url}</code> <code>"
+"{activation.url}</code>"
+msgstr ""
+
+#: inc/class-play-block.php:981
+msgid ""
+"Supported tokens: <code>{site.name}</code> <code>{site.url}</code> <code>"
+"{user.name}</code> <code>{user.email}</code> <code>{login.url}</code> <code>"
+"{resetpassword.url}</code>"
+msgstr ""
+
+#: inc/class-play-block.php:782
+msgid "Supports <code>YouTube.com</code> and <code>HeartThis.at</code>."
+msgstr ""
+
+#: inc/class-play-block.php:789
+msgid "Supports Apple iTunes, Amazon, BeatPort and custom purchase URLs."
+msgstr ""
+
+#: inc/class-play-block.php:775
+msgid "Supports WordPress compatible audio and video file formats."
+msgstr ""
+
+#: inc/class-play-block.php:1028
+msgid "Tag base"
+msgstr ""
+
+#: inc/play-texts.php:125
+msgid "Tags"
+msgstr ""
+
+#: inc/play-texts.php:158
+msgid ""
+"The email could not be sent. Your site may not be correctly configured to "
+"send emails."
+msgstr ""
+
+#: inc/play-texts.php:49
+msgid "The passwords do not match."
+msgstr ""
+
+#: inc/play-texts.php:69
+msgid "There was an unexpected error. Please contact support."
+msgstr ""
+
+#: inc/class-play-block.php:836
+msgid ""
+"This is the page where the ranks link to.<br> The <code>Loop Block</code> "
+"sorted by play count must be on this page."
+msgstr ""
+
+#: inc/class-play-block.php:822
+msgid ""
+"This is the page where users will be redirected to download files.<br> The "
+"<code>[play_download]</code> shortcode must be on this page."
+msgstr ""
+
+#: inc/class-play-block.php:829
+msgid ""
+"This is the page where users will register and login.<br> The <code>"
+"[play_login_form]</code> shortcode must be on this page."
+msgstr ""
+
+#: inc/class-play-block.php:815
+msgid ""
+"This is the page where users will upload their files.<br> The <code>"
+"[play_upload_form]</code> shortcode must be on this page."
+msgstr ""
+
+#: inc/play-texts.php:54
+msgid "This month"
+msgstr ""
+
+#: inc/class-play-import.php:39
+msgid ""
+"This tool allows you to import (or merge) data to your site from a file."
+msgstr ""
+
+#: inc/play-texts.php:71
+msgid "This user has no follower"
+msgstr ""
+
+#: inc/play-texts.php:79
+msgid "This user hasn't created any albums yet."
+msgstr ""
+
+#: inc/play-texts.php:77
+msgid "This user hasn't created any playlists yet."
+msgstr ""
+
+#: inc/play-texts.php:83
+msgid "This user hasn't download anything yet."
+msgstr ""
+
+#: inc/play-texts.php:75
+msgid "This user hasn't liked anything yet."
+msgstr ""
+
+#: inc/play-texts.php:81
+msgid "This user hasn't upload anything yet."
+msgstr ""
+
+#: inc/play-texts.php:73
+msgid "This user is not following anyone."
+msgstr ""
+
+#: inc/play-texts.php:53
+msgid "This week"
+msgstr ""
+
+#: inc/play-texts.php:55
+msgid "This year"
+msgstr ""
+
+#: inc/class-play-block.php:852
+#, php-format
+msgid ""
+"This your own personal Youtube API key to allow importing of watch URLs. You "
+"can obtain a key from the Google <a href=\"%s\">Developer Console</a>."
+msgstr ""
+
+#: inc/play-texts.php:100
+msgid "TikTok"
+msgstr ""
+
+#: inc/play-texts.php:117
+msgid "Title"
+msgstr ""
+
+#: inc/play-texts.php:84
+msgid "Title is a required field."
+msgstr ""
+
+#: inc/play-texts.php:16
+msgid "Track"
+msgstr ""
+
+#: inc/play-texts.php:17
+msgid "Tracks"
+msgstr ""
+
+#: inc/play-texts.php:95
+msgid "Twitter"
+msgstr ""
+
+#: inc/play-texts.php:102
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/play-texts.php:41
+msgid "Update"
+msgstr ""
+
+#: inc/class-play-count.php:614
+msgid "Upgrade done."
+msgstr ""
+
+#: inc/play-texts.php:29 inc/class-play-block.php:1095
+#: inc/class-play-block.php:1118
+msgid "Upload"
+msgstr ""
+
+#: inc/class-play-import.php:37
+msgid "Upload file"
+msgstr ""
+
+#: inc/class-play-block.php:812
+msgid "Upload Page"
+msgstr ""
+
+#: inc/class-play-block.php:737
+msgid "Upload Post Type"
+msgstr ""
+
+#: inc/class-play-block.php:793
+msgid "Upload Roles"
+msgstr ""
+
+#: inc/play-texts.php:108
+msgid "Upload saved."
+msgstr ""
+
+#: inc/play-texts.php:30
+msgid "Uploading"
+msgstr ""
+
+#: inc/play-texts.php:106
+msgid "Uploading files, Please wait."
+msgstr ""
+
+#: inc/play-texts.php:132
+msgid "Url"
+msgstr ""
+
+#: inc/class-play-user.php:252
+msgid "User"
+msgstr ""
+
+#: inc/play-texts.php:156
+msgid "User already activated."
+msgstr ""
+
+#: inc/class-play-block.php:1041
+msgid "User base"
+msgstr ""
+
+#: inc/class-play-block.php:1034
+msgid "User endpoints"
+msgstr ""
+
+#: inc/class-play-block.php:761
+msgid "User submitted playlists will be <code>private</code> by default."
+msgstr ""
+
+#: inc/class-play-block.php:754
+msgid "User submitted posts will be <code>private</code> by default."
+msgstr ""
+
+#: inc/play-texts.php:145
+msgid "Username"
+msgstr ""
+
+#: inc/play-texts.php:148
+msgid "Username or Email Address"
+msgstr ""
+
+#: inc/class-play-block.php:856
+msgid "VAST Ad Tag URL"
+msgstr ""
+
+#: inc/play-texts.php:57
+msgid "Verified"
+msgstr ""
+
+#: inc/class-play-block.php:768
+#, php-format
+msgid ""
+"Verify by editing a user and checking the Verified checkbox. <a href=\"%s\">"
+"View Users</a>."
+msgstr ""
+
+#: inc/play-texts.php:170
+msgid "Very weak"
+msgstr ""
+
+#: inc/class-play-import.php:219
+msgid "View"
+msgstr ""
+
+#: inc/play-texts.php:194
+msgid "View all notifications"
+msgstr ""
+
+#: inc/play-texts.php:171
+msgid "Weak"
+msgstr ""
+
+#: inc/play-texts.php:91
+msgid "Website"
+msgstr ""
+
+#: inc/class-play-block.php:956
+msgid "Welcome to {site.name} <br> Click below link to login.<br>{login.url}"
+msgstr ""
+
+#: inc/play-texts.php:99
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/play-texts.php:110
+msgid "Yes"
+msgstr ""
+
+#: inc/play-texts.php:105
+msgid "Yes, I want to delete my account."
+msgstr ""
+
+#: inc/play-texts.php:78
+msgid "You do not have any albums yet"
+msgstr ""
+
+#: inc/play-texts.php:82
+msgid "You do not have any downloads yet"
+msgstr ""
+
+#: inc/play-texts.php:70
+msgid "You do not have any followers yet"
+msgstr ""
+
+#: inc/play-texts.php:74
+msgid "You do not have any likes yet"
+msgstr ""
+
+#: inc/play-texts.php:193
+msgid "You do not have any notifications"
+msgstr ""
+
+#: inc/play-texts.php:76
+msgid "You do not have any playlists yet"
+msgstr ""
+
+#: inc/play-texts.php:80
+msgid "You do not have any upload yet"
+msgstr ""
+
+#: inc/play-texts.php:72
+msgid "You have not followed anyone yet"
+msgstr ""
+
+#: inc/class-play-upload.php:105 inc/class-play-upload.php:406
+msgid "You need login"
+msgstr ""
+
+#: inc/play-texts.php:155
+msgid "Your account has been activated!"
+msgstr ""
+
+#: inc/play-texts.php:157
+msgid "Your account is not activated!"
+msgstr ""
+
+#: inc/play-texts.php:48
+msgid "Your current password is incorrect."
+msgstr ""
+
+#: inc/play-texts.php:167
+msgid "Your password has been reset."
+msgstr ""
+
+#: inc/class-play-import.php:49
+msgid "Your posts are now being imported..."
+msgstr ""
+
+#: inc/play-texts.php:60
+msgid ""
+"Your queue is empty, Click the play button on an album, song, or playlist to "
+"add it to your queue"
+msgstr ""
+
+#: inc/class-play-block.php:949
+msgid "Your {site.name} account has been created!"
+msgstr ""
+
+#: inc/play-texts.php:96
+msgid "YouTube"
+msgstr ""
+
+#: inc/class-play-block.php:850
+msgid "Youtube API Key"
+msgstr ""
